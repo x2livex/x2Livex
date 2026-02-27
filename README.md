@@ -21,7 +21,7 @@ Most of my work revolves around reverse engineering, exploit development, and UI
 ---
 
 ### stack
-`lua` `luau` `c++` `go` `rust` `nextjs` `node` `windows api`
+`lua` `luau` `python`
 
 ---
 
