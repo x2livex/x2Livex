@@ -21,7 +21,7 @@ Most of my work revolves around Lua scripting, GUI systems, and performance-orie
 ---
 
 ### stack
-`lua` `luau` `python`
+`lua` `luau` `python` `html` `css`
 
 ---
 
