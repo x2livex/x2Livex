@@ -39,8 +39,3 @@ Most of my work revolves around Lua scripting, GUI systems, and performance-orie
 </p>
 
 ---
-
-### github analytics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-</p>
