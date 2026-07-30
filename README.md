@@ -9,28 +9,10 @@
 
 ---
 
-### 👋 about
-I build clean, efficient systems focused on automation, UI frameworks, and script-based tools.  
-Most of my work revolves around Lua scripting, GUI systems, and performance-oriented design.
-
-- ⚡ building **script hubs & automation systems**
-- 🎨 designing **custom UI / GUI frameworks**
-- 🧠 optimization & clean system architecture
-- 🧩 scalable & modular scripting design
-
----
-
-### 🛠️ stack
-`lua` `luau` `python` `html` `css`
-
----
-
-### 🎯 focus
-- 🤖 script hub & automation  
-- 🎨 UI / UX system design  
-- 🧱 modular framework building  
-- 🚀 performance optimization  
-
+### I code with
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,py,js,html,css" />
+</p>
 ---
 
 ### 🟢 status
