@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
-`SFM` · `3D` · `Animation` · `Video`
+`SFM` · `3D` · `Animation` · `Video` · `Thumbnail Design`
 
 ---
 
