@@ -21,9 +21,9 @@
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
- Animation — Source Filmmaker (SFM)
-3D — Blender
-* Video editing
+*  Animation — Source Filmmaker (SFM)
+*  3D — Blender
+*  Video editing
 
 ---
 
