@@ -1,25 +1,11 @@
----
-
-### I code with
+Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,py,js,html,css" />
+<img src="https://skillicons.dev/icons?i=lua,py,js,html,css,blender" />
 </p>
 
-### I build with
+SFM · 3D Modeling · Animation · Video Editing · Thumbnail Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=blender" />
+<img src="https://lanyard.cnrad.dev/api/1104393055454375957?theme=dark&bg=0d1117&borderRadius=12px" />
 </p>
-
-`SFM` · `3D` · `Animation` · `Video` · `Thumbnail Design`
-
----
-
-### 🟢 status
-
-<p align="left">
-  <img src="https://lanyard.cnrad.dev/api/1104393055454375957?theme=dark&bg=0d1117&borderRadius=12px" />
-</p>
-
----
